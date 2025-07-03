@@ -5,6 +5,7 @@ app_description = "item entry"
 app_email = "support@gmail.com"
 app_license = "mit"
 
+fixtures = ["Custom Field"]
 
 
 # Apps
